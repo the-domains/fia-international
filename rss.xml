@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FIA International]]></title>
+        <description><![CDATA[FIA International]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 11 May 2016 12:16:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Pisco is een sterke drank die wordt gedestilleerd uit druiven. De drank wordt gedronken in Peru.</p>]]></description>
+            <link>undefinedpisco-is-een-sterke-drank-die-wordt-gedestilleerd-uit-druive/index.html</link>
+            <guid isPermaLink="false">35a9df82-8b6c-4d1f-91bf-deb2576e828b</guid>
+            <pubDate>Wed, 11 May 2016 12:16:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
