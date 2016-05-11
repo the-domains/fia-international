@@ -4,20 +4,21 @@
         <description><![CDATA[Importeur van kwaliteitspisco]]></description>
         <link>https://thegrid.ai/fia-international/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 12:27:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 12:28:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fia-international/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Over FIA International]]></title>
+            <description><![CDATA[<p> Welkom op onze site, de website van FIA International. Importeur van Pisco's uit Peru en mogelijk in de toekomst van andere producten van aldaar. Wij zijn blij te kunnen vermelden dat wij de eerste (en enige) importeur zijn van Peruaanse Pisco's in Nederland. </p>]]></description>
+            <link>https://thegrid.ai/fia-international/b3baf8d9-2f23-49db-b74b-d82771a5b8a1/index.html</link>
+            <guid isPermaLink="false">b3baf8d9-2f23-49db-b74b-d82771a5b8a1</guid>
+            <pubDate>Wed, 11 May 2016 12:27:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pisco]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2220c192-94fc-4ff6-80eb-31e81f7372b7.jpg">]]></description>
             <link>https://thegrid.ai/fia-international/pisco-is-een-sterke-drank-die-wordt-gedestilleerd-uit-druive/index.html</link>
             <guid isPermaLink="false">35a9df82-8b6c-4d1f-91bf-deb2576e828b</guid>
             <pubDate>Wed, 11 May 2016 12:27:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://thegrid.ai/fia-international/b3baf8d9-2f23-49db-b74b-d82771a5b8a1/index.html</link>
-            <guid isPermaLink="false">b3baf8d9-2f23-49db-b74b-d82771a5b8a1</guid>
-            <pubDate>Wed, 11 May 2016 12:20:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
