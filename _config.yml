@@ -1,4 +1,3 @@
-layout_spectrum: 0.25712
 typography_spectrum: 0.7643587337806821
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.25712
 analytics:
   google: null
   facebook: null
@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Pisco
+    id: 35a9df82-8b6c-4d1f-91bf-deb2576e828b
+    type: content
 favicon: null
 title: FIA International
 description: High Quality Pisco Is Our Mission
