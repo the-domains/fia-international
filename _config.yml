@@ -1,20 +1,4 @@
-name: FIA International
-favicon: null
-layout_spectrum: 0.25712
 typography_spectrum: 0.1553983895573765
-title: FIA International - Importer of Quality Pisco
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,20 @@ color:
   lightness: 0
   saturation: 1
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.25712
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: FIA International
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: FIA International
 purpose: []
