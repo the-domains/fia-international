@@ -4,19 +4,25 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "Pisco is een sterke drank die wordt gedestilleerd uit druiven. De drank wordt gedronken in Peru. In Peru wordt de drank vaak geserveerd als een cocktail genaamd pisco sour. Deze drank bevat naast pisco geklopt eiwit, rietsuikerstroop, gebroken ijsblokjes en veel limoen- of citroensap. Daarnaast bestaat er nog een aantal iets minder bekende cocktails zoals 'mango sour' of een 'piscolini'. De Peruaanse pisco wordt gemaakt van de quebranta- of Italiadruif, vooral in de regio's Ica en Moquegua. Tijdens het destillatieproces wordt er geen andere substantie toegevoegd. "
-datePublished: '2016-05-11T12:27:35.906Z'
-dateModified: '2016-05-11T12:21:46.686Z'
+description: >-
+  Pisco is een sterke drank die wordt gedestilleerd uit druiven. De drank wordt
+  gedronken in Peru. In Peru wordt de drank vaak geserveerd als een cocktail
+  genaamd pisco sour. Deze drank bevat naast pisco geklopt eiwit,
+  rietsuikerstroop, gebroken ijsblokjes en veel limoen- of citroensap. Daarnaast
+  bestaat er nog een aantal iets minder bekende cocktails zoals 'mango sour' of
+  een 'piscolini'. De Peruaanse pisco wordt gemaakt van de quebranta- of
+  Italiadruif, vooral in de regio's Ica en Moquegua. Tijdens het
+  destillatieproces wordt er geen andere substantie toegevoegd. 
+datePublished: '2016-08-31T07:15:03.849Z'
+dateModified: '2016-08-31T07:15:03.386Z'
 title: ''
 author: []
-sourcePath: _posts/2016-05-11-pisco-is-een-sterke-drank-die-wordt-gedestilleerd-uit-druive.md
+sourcePath: >-
+  _posts/2016-05-11-pisco-is-een-sterke-drank-die-wordt-gedestilleerd-uit-druive.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
+publisher: {}
+via: {}
+starred: true
 url: pisco-is-een-sterke-drank-die-wordt-gedestilleerd-uit-druive/index.html
 _type: Article
 
